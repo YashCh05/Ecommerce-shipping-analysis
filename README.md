@@ -1,3 +1,4 @@
+ ## <img width="286" height="176" alt="image" src="https://github.com/user-attachments/assets/f0d35324-87f7-40c4-97e6-34db01d66114" /> ##
 # 📦 E-Commerce Shipping Analysis — End-to-End Data Analytics Project
 
 This project analyzes a synthetic **50,000-record e-commerce shipping dataset**, covering order timelines, delivery performance, shipping modes, regional behavior, and logistics insights. It includes **Python EDA**, **MySQL queries**, and a **Power BI dashboard**, making it a complete end-to-end data analytics project.
